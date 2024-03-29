@@ -24,9 +24,9 @@ export default function Index() {
           <BsThreeDots/>
         </div>
         <div  className="flex gap-8 my-4">
-          <h6>21,303 posts</h6>
-          <h6>13.5M followers</h6>
-          <h6>99 following</h6>
+          <h6><span className="font-bold">21,303</span> posts</h6>
+          <h6><span className="font-bold">13.5M</span> followers</h6>
+          <h6><span className="font-bold">99</span> following</h6>
         </div>
 
         <div>
@@ -35,7 +35,7 @@ export default function Index() {
             The official Instagram account of the Royal Challengers Bengaluru -
             WPL 2024 🏆 Stay connected with RCB 👇
           </p>
-          <Link href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Froyalchallengersbangalore&e=AT3ZsfQuTzvvcfO3cBwYkGwuJT-i5NSViM1S42Oqdx6-EQ6EZGGxY0eGIMFmK3D8lLGgtaEzJJDMdaO2DG2okFzRevzyXtcQOxFfgQ">linktr.ee/royalchallengersbangalore</Link>
+          <Link href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Froyalchallengersbangalore&e=AT3ZsfQuTzvvcfO3cBwYkGwuJT-i5NSViM1S42Oqdx6-EQ6EZGGxY0eGIMFmK3D8lLGgtaEzJJDMdaO2DG2okFzRevzyXtcQOxFfgQ" style={{color:"blue"}}>linktr.ee/royalchallengersbangalore</Link>
           <p  className="mt-4">Followed by swasthik.k.s, manoj_m_porammanavar, ranjan__moger + 86 more</p>
         </div>
       </div>

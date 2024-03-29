@@ -8,7 +8,7 @@ export default function Index() {
         <h6  className='mt-2'>Reels</h6>
         <h6  className='mt-2'>Tagged</h6>
       </div>
-      <div className='grid grid-cols-12 w-[90%] mx-auto mt-8'>
+      <div className='grid grid-cols-12 w-[90%] mx-auto mt-8 gap-1  mb-1'>
         <div className='col-span-4'>
             <Image src="https://scontent.cdninstagram.com/v/t39.30808-6/434255825_18426135067063583_2310471909181737387_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_ohc=Fcq-JcxR1FgAX8oWX_I&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzMzMTUyODg0MDAzMTA3MzU1Mw%3D%3D.2-ccb7-5&oh=00_AfCEww0Z6qILFWupk-YgWO4vBTT225NqAGtN_MhK5prK4w&oe=660B3C76&_nc_sid=10d13b" width={100} height={100} layout="responsive" alt="this is image"/>
         </div>
@@ -20,7 +20,7 @@ export default function Index() {
         </div>
 
       </div>
-      <div className='grid grid-cols-12 w-[90%] mx-auto'>
+      <div className='grid grid-cols-12 w-[90%] mx-auto  gap-1 mb-1'>
         <div className='col-span-4'>
             <Image src="https://scontent.cdninstagram.com/v/t39.30808-6/434212856_18426843160063583_3470096427604180923_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_ohc=08ZL1C44W6UAX-WtWqe&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzMzNDQ1OTQ4NTI5NjQzMTkyMw%3D%3D.2-ccb7-5&oh=00_AfDXtL2VS2ysJ7brc4ym2cu-a7yxM9otrd-bEYg6BzBHYQ&oe=660C35F2&_nc_sid=10d13b" width={100} height={100} layout="responsive" alt="this is image"/>
         </div>
@@ -32,7 +32,7 @@ export default function Index() {
         </div>
 
       </div>
-      <div className='grid grid-cols-12 w-[90%] mx-auto'>
+      <div className='grid grid-cols-12 w-[90%] mx-auto  gap-1  mb-1'>
         <div className='col-span-4'>
             <Image src="https://scontent.cdninstagram.com/v/t39.30808-6/434214809_18426841564063583_6693675798716744551_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_ohc=zMhztgcl7p8AX8WGhDc&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzMzNDQ1NTE0Mzg3MjkxMDc3NA%3D%3D.2-ccb7-5&oh=00_AfBzse2p3EABA22zxq7RittYBbLvBpaDzaph8-4PIRojAQ&oe=660C3D64&_nc_sid=10d13b" width={100} height={100} layout="responsive" alt="this is image"/>
         </div>
